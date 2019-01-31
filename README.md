@@ -1,12 +1,18 @@
-﻿WeixinSDK.net使用帮助
+<img src="http://weixinsdk.net/slider.png"  style="width:100px;height:100px;"/>
 
 1.使用对象
 
 微信公众平台：http://mp.weixin.qq.com/wiki/home/index.html
 
-Deepleo.Weixin.SDK是SDK源代码
+Deepleo.Weixin.SDK是.net framework 4.5 的SDK源代码
 
-Deepleo.Web是一个asp.net mvc的demo
+Deepleo.Weixin.SDK.Core是dotnet core 2.0 的SDK源代码
+
+Deepleo.Web是一个asp.net mvc的demo  Online: http://demo.weixinsdk.net
+
+扫码查看：
+
+     <img src="https://github.com/night-king/weixinSDK/blob/master/%E4%BD%A0%E6%83%B3%E8%A6%81%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C.jpg"  style="width:100px;height:100px;"/>
 
 2.核心思想
 
@@ -14,6 +20,8 @@ Deepleo.Web是一个asp.net mvc的demo
 让您可以像Python一样书写代码。
 
 3.疑难问题
+
+Wiki: https://github.com/night-king/weixinSDK/wiki
 
 1）API返回的Dynamic对象应该如何使用？
 
@@ -40,13 +48,12 @@ Deepleo.Web是一个asp.net mvc的demo
 
     答：如果开发者遇到开发问题或者遇到SDK的bug，请到
 
-     a.官方QQ群：173564082 
+     a.官方QQ群：478753523
 
-     b.官方论坛：http://www.weixinsdk.net/
+     b.官方网站：http://www.weixinsdk.net/
 
      c.作者QQ：2586662969
-     
-     d.作者微信号: deepleo (加好友注明weixinsdk)
+
 
 4.源代码唯一托管地址：https://github.com/night-king/weixinSDK
 
@@ -56,11 +63,5 @@ Deepleo.Web是一个asp.net mvc的demo
 Code and documentation copyright 2011-2015. Code released under the MIT license. Docs released under Creative Commons.
 
 
-6.捐助
 
-如果这个项目对您有用，我们欢迎各方任何形式的捐助，也包括参与到项目代码更新或意见反馈中来。谢谢！资金捐助：
-
-  <img src="http://weixinsdk.net/data/attachment/forum/201504/10/143139l7bw4jbtj5317tzd.jpg" style="width:100px; height:100px;"/>
-
-7.更多详细说明请访问：http://weixinsdk.net/forum.php?mod=viewthread&tid=6&extra=page%3D1
 
